@@ -9,6 +9,71 @@
 
 captcha-ge is a Node.js library for generating CAPTCHA (Completely Automated Public Turing test to tell Computers and Humans Apart) images. It provides both a JavaScript API and a Command-Line Interface (CLI) for easy integration into web applications.
 
+<div style="display: flex; flex-wrap: wrap;">
+
+  <!-- صورة رقم 1 -->
+  <div style="flex: 1; margin: 5px;">
+    <img src="assets/1.jpeg" alt="Image 1" width="200" height="60" />
+  </div>
+
+  <!-- صورة رقم 2 -->
+  <div style="flex: 1; margin: 5px;">
+    <img src="assets/2.jpeg" alt="Image 2" width="200" height="60" />
+  </div>
+
+  <!-- صورة رقم 3 -->
+  <div style="flex: 1; margin: 5px;">
+    <img src="assets/3.jpeg" alt="Image 3" width="200" height="60" />
+  </div>
+
+  <!-- صورة رقم 4 -->
+  <div style="flex: 1; margin: 5px;">
+    <img src="assets/4.jpeg" alt="Image 4" width="200" height="60" />
+  </div>
+
+  <!-- صورة رقم 5 -->
+  <div style="flex: 1; margin: 5px;">
+    <img src="assets/5.jpeg" alt="Image 5" width="200" height="60" />
+  </div>
+
+  <!-- صورة رقم 6 -->
+  <div style="flex: 1; margin: 5px;">
+    <img src="assets/6.jpeg" alt="Image 6" width="200" height="60" />
+  </div>
+
+  <!-- صورة رقم 7 -->
+  <div style="flex: 1; margin: 5px;">
+    <img src="assets/7.jpeg" alt="Image 7" width="200" height="60" />
+  </div>
+
+  <!-- صورة رقم 8 -->
+  <div style="flex: 1; margin: 5px;">
+    <img src="assets/8.jpeg" alt="Image 8" width="200" height="60" />
+  </div>
+
+  <!-- صورة رقم 9 -->
+  <div style="flex: 1; margin: 5px;">
+    <img src="assets/9.jpeg" alt="Image 9" width="200" height="60" />
+  </div>
+
+  <!-- صورة رقم 10 -->
+  <div style="flex: 1; margin: 5px;">
+    <img src="assets/10.jpeg" alt="Image 10" width="200" height="60" />
+  </div>
+
+  <!-- صورة رقم 11 -->
+  <div style="flex: 1; margin: 5px;">
+    <img src="assets/11.jpeg" alt="Image 11" width="200" height="60" />
+  </div>
+
+  <!-- صورة رقم 12 -->
+  <div style="flex: 1; margin: 5px;">
+    <img src="assets/12.jpeg" alt="Image 12" width="200" height="60" />
+  </div>
+
+</div>
+
+
 ## Installation
 
 To use captcha-ge in your Node.js project, follow these steps:
