@@ -1,0 +1,42 @@
+{
+  "name": "captcha-ge",
+  "version": "1.0.8",
+  "main": "src/index.js",
+  "type": "module",
+  "bin": {
+    "captcha-ge": "./src/cli.js"
+  },
+  
+  "scripts": {
+    "start": "node src/index.js",
+    "cli": "node src/cli.js",
+    "build": "babel src --out-dir lib"
+  },
+  "dependencies": {
+    "canvas": "^2.11.2"
+  },
+  "author": {
+    "name": "rn0x",
+    "email": "rn0x.me@gmail.com",
+    "url": "https://github.com/rn0x"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rn0x/captcha-ge.git"
+  },
+  "keywords": [
+    "captcha",
+    "captcha-generator",
+    "captcha_generator",
+    "image-captcha",
+    "nodejs",
+    "canvas",
+    "npm-package"
+  ],
+  "devDependencies": {
+    "@babel/cli": "^7.24.5",
+    "@babel/core": "^7.24.5",
+    "@babel/preset-env": "^7.24.5"
+  }
+}
