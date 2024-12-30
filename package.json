@@ -13,7 +13,7 @@
     "build": "babel src --out-dir lib"
   },
   "dependencies": {
-    "canvas": "^2.11.2"
+    "canvas": "^3.0.0"
   },
   "author": {
     "name": "rn0x",
